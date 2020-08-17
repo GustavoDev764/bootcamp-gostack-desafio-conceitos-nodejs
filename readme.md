@@ -19,7 +19,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Nesse desafio tinha que cri um CRUD de api de repository, que contem so seguintes atributos, { id: "uuid", title: 'Desafio Node.js', url: 'http://github.com/...', techs: ["Node.js", "..."], likes: 0 }.
+Nesse desafio tinha que cri um CRUD de api de repository, que contem so seguintes atributos:
+
+<ul>
+    <li><strong>id:</strong> "uuid"</li>
+    <li><strong>title:</strong> "Desafio Node.js"</li>
+    <li><strong>url:</strong> "http://github.com/..."</li>
+    <li><strong>techs: </strong>["Node.js", "React", "..."]</li>
+</ul>
 
 ## :memo: Licença
 
