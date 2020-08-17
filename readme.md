@@ -11,8 +11,16 @@
 
 </p>
 
-## 🤓 Sobre o desafio
+## :rocket: Tecnologias
 
-Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no Node.js!
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Essa será uma aplicação para armazenar repositórios do seu portfólio, que irá permitir a criação, listagem, atualização e remoção dos repositórios, e além disso permitir que os repositórios possam receber "likes".
+- [Node.js](https://nodejs.org/en/)
+
+## 💻 Projeto
+
+Nesse desafio tinha que cri um CRUD de api de repository, que contem so seguintes atributos, { id: "uuid", title: 'Desafio Node.js', url: 'http://github.com/...', techs: ["Node.js", "..."], likes: 0 }.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
