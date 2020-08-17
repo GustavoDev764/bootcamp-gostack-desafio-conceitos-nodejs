@@ -25,7 +25,8 @@ Nesse desafio tinha que cria um CRUD de api de repository, que contem os seguint
     <li><strong>id:</strong> "uuid"</li>
     <li><strong>title:</strong> "Desafio Node.js"</li>
     <li><strong>url:</strong> "http://github.com/..."</li>
-    <li><strong>techs: </strong>["Node.js", "React", "..."]</li>
+    <li><strong>techs:</strong> ["Node.js", "React", "..."]</li>
+    <li><strong>Likes:</strong> 1</li>
 </ul>
 
 ### Rotas da aplicação
