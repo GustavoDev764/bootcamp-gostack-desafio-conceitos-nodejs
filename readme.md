@@ -1,16 +1,6 @@
-<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 <h2 align="center">
   Desafio 02: Conceitos do Node.js
 </h2>
-
-<p align="center">
-  <img alt="GitHub language count" src="photos/languages.svg">
-
-  <img alt="GitHub top language" src="photos/languages2.svg">
-
-  <img alt="License" src="photos/license.svg">
-
-</p>
 
 ## :rocket: Tecnologias
 
