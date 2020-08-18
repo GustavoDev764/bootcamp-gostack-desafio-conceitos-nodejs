@@ -41,6 +41,25 @@ Nesse desafio tinha que cria um CRUD de api de repository, que contem os seguint
 
 - **`POST /repositories/:id/like`**: A rota deve aumentar o número de likes do repositório específico escolhido através do `id` presente nos parâmetros da rota, a cada chamada dessa rota, o número de likes deve ser aumentado em 1;
 
+## ⌨ Como Executar o Projeto:
+
+```bash
+# Clonar o repositório
+git clone https://github.com/GustavoDev764/bootcamp-gostack-desafio-conceitos-nodejs
+
+# Entrar no diretório
+cd bootcamp-gostack-desafio-conceitos-nodejs
+
+# Baixar as dependências
+npm i
+
+# Executar o servidor
+npm run dev
+
+# Link do servido
+http://localhost:3333/
+```
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
